@@ -83,7 +83,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-01b-First-Twine-Project
-Exercise for MSCH-C220, 27 August 2020
+Exercise for Paige Gehlhausen, 27 August 2020
 
 An Interactive Fiction game loosly based on the original, great Interactive Fiction game, Adventure. Load Adventure.html in a browser to play it.
 
@@ -97,6 +97,6 @@ Built using Twine 2.3.9
 None
 
 ## Created by 
-Jason Francis
+Paige Gehlhausen
 
 ```
